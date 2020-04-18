@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.tulaeparhia"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Тульская Епархия</name>
+    <name>Тульская Епархия</name>
 
     <description>
         Следите за новостями Тульской Епархии в новом мобильном приложении
